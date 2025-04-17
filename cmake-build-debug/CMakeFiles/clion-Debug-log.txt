@@ -1,4 +1,17 @@
 /Applications/IDEs/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/IDEs/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/finnengels/CLionProjects/Vorlesung -B /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug
+-- Executable hinzugefügt: Beispiele_Vorlesung -> /Users/finnengels/CLionProjects/Vorlesung/src/Beispiele-Vorlesung.cpp
+-- Executable hinzugefügt: Division -> /Users/finnengels/CLionProjects/Vorlesung/src/Division.cpp
+-- Executable hinzugefügt: Fakultaet_Rekursiv -> /Users/finnengels/CLionProjects/Vorlesung/src/Fakultät-Rekursiv.cpp
+-- Executable hinzugefügt: Fakultaet -> /Users/finnengels/CLionProjects/Vorlesung/src/Fakultät.cpp
+-- Executable hinzugefügt: FakultaetAusgabe -> /Users/finnengels/CLionProjects/Vorlesung/src/FakultätAusgabe.cpp
+-- Executable hinzugefügt: Fibunacci_Rekursiv -> /Users/finnengels/CLionProjects/Vorlesung/src/Fibunacci-Rekursiv.cpp
+-- Executable hinzugefügt: Fibunacci -> /Users/finnengels/CLionProjects/Vorlesung/src/Fibunacci.cpp
+-- Executable hinzugefügt: Geldeinsameln -> /Users/finnengels/CLionProjects/Vorlesung/src/Geldeinsameln.cpp
+-- Executable hinzugefügt: Kreis -> /Users/finnengels/CLionProjects/Vorlesung/src/Kreis.cpp
+-- Executable hinzugefügt: Mittelwert -> /Users/finnengels/CLionProjects/Vorlesung/src/Mittelwert.cpp
+-- Executable hinzugefügt: Winkel_Sinus -> /Users/finnengels/CLionProjects/Vorlesung/src/Winkel-Sinus.cpp
+-- Executable hinzugefügt: main -> /Users/finnengels/CLionProjects/Vorlesung/src/main.cpp
+-- Executable hinzugefügt: xv_xb -> /Users/finnengels/CLionProjects/Vorlesung/src/xv-xb.cpp
 -- Configuring done (0.0s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug
