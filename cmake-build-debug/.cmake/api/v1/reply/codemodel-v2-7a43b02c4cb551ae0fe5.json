@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.31"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Vorlesung",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Beispiele_Vorlesung::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Beispiele_Vorlesung-Debug-dbbcd5765a5d4c777e85.json",
+					"name" : "Beispiele_Vorlesung",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Division::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Division-Debug-9de1a5c984ead1d63261.json",
+					"name" : "Division",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fakultaet::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fakultaet-Debug-6d220c50f3e955925089.json",
+					"name" : "Fakultaet",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FakultaetAusgabe::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FakultaetAusgabe-Debug-6eb34d33ec150016de19.json",
+					"name" : "FakultaetAusgabe",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fakultaet_Rekursiv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fakultaet_Rekursiv-Debug-fc856e21b3b0fa5bb011.json",
+					"name" : "Fakultaet_Rekursiv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fibunacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibunacci-Debug-70f26683e065865678cd.json",
+					"name" : "Fibunacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Fibunacci_Rekursiv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Fibunacci_Rekursiv-Debug-459569fe61ec68fb8400.json",
+					"name" : "Fibunacci_Rekursiv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Geldeinsameln::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Geldeinsameln-Debug-6b27983bbb2c5316f5e8.json",
+					"name" : "Geldeinsameln",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kreis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kreis-Debug-6671a74193319e60ba91.json",
+					"name" : "Kreis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Mittelwert::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mittelwert-Debug-24919e9b3694f366460a.json",
+					"name" : "Mittelwert",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Winkel_Sinus::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Winkel_Sinus-Debug-45fac133c79147787dd9.json",
+					"name" : "Winkel_Sinus",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-76d20b1f1b20cacb31c3.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xv_xb::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xv_xb-Debug-b4946547cc0e8dee8a60.json",
+					"name" : "xv_xb",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug",
+		"source" : "/Users/finnengels/CLionProjects/Vorlesung"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
