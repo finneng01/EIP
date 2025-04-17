@@ -1,0 +1,3 @@
+/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/Vorlesung.dir
+/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
