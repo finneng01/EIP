@@ -26,7 +26,15 @@ foreach(FILE ${CPP_FILES})
         sanitize_target_name(${FILENAME} SANITIZED_NAME)
 
         # Erstelle die Executable
-        add_executable(${SANITIZED_NAME} ${FILE})
+        add_executable(${SANITIZED_NAME} ${FILE}
+                src/module/module.cpp
+                src/module/module.cpp
+                src/module/main.h
+                src/module/calc.cpp
+                src/module/calc.h
+                src/module/global.h
+                src/module/io.h
+                src/module/io.cpp)
         message(STATUS "Executable hinzugefügt: ${SANITIZED_NAME} -> ${FILE}")
     endif()
 endforeach()

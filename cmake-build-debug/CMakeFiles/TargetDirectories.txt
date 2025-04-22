@@ -10,6 +10,9 @@
 /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/Mittelwert.dir
 /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/Winkel_Sinus.dir
 /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/main.dir
+/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/calc.dir
+/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/io.dir
+/Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/module.dir
 /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/xv_xb.dir
 /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug/CMakeFiles/rebuild_cache.dir
