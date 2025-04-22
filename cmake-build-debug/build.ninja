@@ -73,6 +73,12 @@ build CMakeFiles/Beispiele_Vorlesung.dir/src/module/io.cpp.o: CXX_COMPILER__Beis
   OBJECT_DIR = CMakeFiles/Beispiele_Vorlesung.dir
   OBJECT_FILE_DIR = CMakeFiles/Beispiele_Vorlesung.dir/src/module
 
+build CMakeFiles/Beispiele_Vorlesung.dir/src/summe.cpp.o: CXX_COMPILER__Beispiele_Vorlesung_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Beispiele_Vorlesung
+  DEP_FILE = CMakeFiles/Beispiele_Vorlesung.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Beispiele_Vorlesung.dir
+  OBJECT_FILE_DIR = CMakeFiles/Beispiele_Vorlesung.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Beispiele_Vorlesung
@@ -81,7 +87,7 @@ build CMakeFiles/Beispiele_Vorlesung.dir/src/module/io.cpp.o: CXX_COMPILER__Beis
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Beispiele_Vorlesung
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Beispiele_Vorlesung: CXX_EXECUTABLE_LINKER__Beispiele_Vorlesung_Debug CMakeFiles/Beispiele_Vorlesung.dir/src/Beispiele-Vorlesung.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/module/module.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/module/calc.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Beispiele_Vorlesung: CXX_EXECUTABLE_LINKER__Beispiele_Vorlesung_Debug CMakeFiles/Beispiele_Vorlesung.dir/src/Beispiele-Vorlesung.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/module/module.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/module/calc.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/module/io.cpp.o CMakeFiles/Beispiele_Vorlesung.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Beispiele_Vorlesung.dir
   POST_BUILD = :
@@ -122,6 +128,12 @@ build CMakeFiles/Division.dir/src/module/io.cpp.o: CXX_COMPILER__Division_unscan
   OBJECT_DIR = CMakeFiles/Division.dir
   OBJECT_FILE_DIR = CMakeFiles/Division.dir/src/module
 
+build CMakeFiles/Division.dir/src/summe.cpp.o: CXX_COMPILER__Division_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Division
+  DEP_FILE = CMakeFiles/Division.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Division.dir
+  OBJECT_FILE_DIR = CMakeFiles/Division.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Division
@@ -130,7 +142,7 @@ build CMakeFiles/Division.dir/src/module/io.cpp.o: CXX_COMPILER__Division_unscan
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Division
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Division: CXX_EXECUTABLE_LINKER__Division_Debug CMakeFiles/Division.dir/src/Division.cpp.o CMakeFiles/Division.dir/src/module/module.cpp.o CMakeFiles/Division.dir/src/module/calc.cpp.o CMakeFiles/Division.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Division: CXX_EXECUTABLE_LINKER__Division_Debug CMakeFiles/Division.dir/src/Division.cpp.o CMakeFiles/Division.dir/src/module/module.cpp.o CMakeFiles/Division.dir/src/module/calc.cpp.o CMakeFiles/Division.dir/src/module/io.cpp.o CMakeFiles/Division.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Division.dir
   POST_BUILD = :
@@ -171,6 +183,12 @@ build CMakeFiles/Fakultaet_Rekursiv.dir/src/module/io.cpp.o: CXX_COMPILER__Fakul
   OBJECT_DIR = CMakeFiles/Fakultaet_Rekursiv.dir
   OBJECT_FILE_DIR = CMakeFiles/Fakultaet_Rekursiv.dir/src/module
 
+build CMakeFiles/Fakultaet_Rekursiv.dir/src/summe.cpp.o: CXX_COMPILER__Fakultaet_Rekursiv_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Fakultaet_Rekursiv
+  DEP_FILE = CMakeFiles/Fakultaet_Rekursiv.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Fakultaet_Rekursiv.dir
+  OBJECT_FILE_DIR = CMakeFiles/Fakultaet_Rekursiv.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Fakultaet_Rekursiv
@@ -179,7 +197,7 @@ build CMakeFiles/Fakultaet_Rekursiv.dir/src/module/io.cpp.o: CXX_COMPILER__Fakul
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet_Rekursiv
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet_Rekursiv: CXX_EXECUTABLE_LINKER__Fakultaet_Rekursiv_Debug CMakeFiles/Fakultaet_Rekursiv.dir/src/Fakultät-Rekursiv.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/module/module.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/module/calc.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet_Rekursiv: CXX_EXECUTABLE_LINKER__Fakultaet_Rekursiv_Debug CMakeFiles/Fakultaet_Rekursiv.dir/src/Fakultät-Rekursiv.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/module/module.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/module/calc.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/module/io.cpp.o CMakeFiles/Fakultaet_Rekursiv.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Fakultaet_Rekursiv.dir
   POST_BUILD = :
@@ -220,6 +238,12 @@ build CMakeFiles/Fakultaet.dir/src/module/io.cpp.o: CXX_COMPILER__Fakultaet_unsc
   OBJECT_DIR = CMakeFiles/Fakultaet.dir
   OBJECT_FILE_DIR = CMakeFiles/Fakultaet.dir/src/module
 
+build CMakeFiles/Fakultaet.dir/src/summe.cpp.o: CXX_COMPILER__Fakultaet_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Fakultaet
+  DEP_FILE = CMakeFiles/Fakultaet.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Fakultaet.dir
+  OBJECT_FILE_DIR = CMakeFiles/Fakultaet.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Fakultaet
@@ -228,7 +252,7 @@ build CMakeFiles/Fakultaet.dir/src/module/io.cpp.o: CXX_COMPILER__Fakultaet_unsc
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet: CXX_EXECUTABLE_LINKER__Fakultaet_Debug CMakeFiles/Fakultaet.dir/src/Fakultät.cpp.o CMakeFiles/Fakultaet.dir/src/module/module.cpp.o CMakeFiles/Fakultaet.dir/src/module/calc.cpp.o CMakeFiles/Fakultaet.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet: CXX_EXECUTABLE_LINKER__Fakultaet_Debug CMakeFiles/Fakultaet.dir/src/Fakultät.cpp.o CMakeFiles/Fakultaet.dir/src/module/module.cpp.o CMakeFiles/Fakultaet.dir/src/module/calc.cpp.o CMakeFiles/Fakultaet.dir/src/module/io.cpp.o CMakeFiles/Fakultaet.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Fakultaet.dir
   POST_BUILD = :
@@ -269,6 +293,12 @@ build CMakeFiles/FakultaetAusgabe.dir/src/module/io.cpp.o: CXX_COMPILER__Fakulta
   OBJECT_DIR = CMakeFiles/FakultaetAusgabe.dir
   OBJECT_FILE_DIR = CMakeFiles/FakultaetAusgabe.dir/src/module
 
+build CMakeFiles/FakultaetAusgabe.dir/src/summe.cpp.o: CXX_COMPILER__FakultaetAusgabe_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_FakultaetAusgabe
+  DEP_FILE = CMakeFiles/FakultaetAusgabe.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/FakultaetAusgabe.dir
+  OBJECT_FILE_DIR = CMakeFiles/FakultaetAusgabe.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target FakultaetAusgabe
@@ -277,7 +307,7 @@ build CMakeFiles/FakultaetAusgabe.dir/src/module/io.cpp.o: CXX_COMPILER__Fakulta
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/FakultaetAusgabe
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/FakultaetAusgabe: CXX_EXECUTABLE_LINKER__FakultaetAusgabe_Debug CMakeFiles/FakultaetAusgabe.dir/src/FakultätAusgabe.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/module/module.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/module/calc.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/FakultaetAusgabe: CXX_EXECUTABLE_LINKER__FakultaetAusgabe_Debug CMakeFiles/FakultaetAusgabe.dir/src/FakultätAusgabe.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/module/module.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/module/calc.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/module/io.cpp.o CMakeFiles/FakultaetAusgabe.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/FakultaetAusgabe.dir
   POST_BUILD = :
@@ -318,6 +348,12 @@ build CMakeFiles/Fibunacci_Rekursiv.dir/src/module/io.cpp.o: CXX_COMPILER__Fibun
   OBJECT_DIR = CMakeFiles/Fibunacci_Rekursiv.dir
   OBJECT_FILE_DIR = CMakeFiles/Fibunacci_Rekursiv.dir/src/module
 
+build CMakeFiles/Fibunacci_Rekursiv.dir/src/summe.cpp.o: CXX_COMPILER__Fibunacci_Rekursiv_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Fibunacci_Rekursiv
+  DEP_FILE = CMakeFiles/Fibunacci_Rekursiv.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Fibunacci_Rekursiv.dir
+  OBJECT_FILE_DIR = CMakeFiles/Fibunacci_Rekursiv.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Fibunacci_Rekursiv
@@ -326,7 +362,7 @@ build CMakeFiles/Fibunacci_Rekursiv.dir/src/module/io.cpp.o: CXX_COMPILER__Fibun
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci_Rekursiv
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci_Rekursiv: CXX_EXECUTABLE_LINKER__Fibunacci_Rekursiv_Debug CMakeFiles/Fibunacci_Rekursiv.dir/src/Fibunacci-Rekursiv.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/module/module.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/module/calc.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci_Rekursiv: CXX_EXECUTABLE_LINKER__Fibunacci_Rekursiv_Debug CMakeFiles/Fibunacci_Rekursiv.dir/src/Fibunacci-Rekursiv.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/module/module.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/module/calc.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/module/io.cpp.o CMakeFiles/Fibunacci_Rekursiv.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Fibunacci_Rekursiv.dir
   POST_BUILD = :
@@ -367,6 +403,12 @@ build CMakeFiles/Fibunacci.dir/src/module/io.cpp.o: CXX_COMPILER__Fibunacci_unsc
   OBJECT_DIR = CMakeFiles/Fibunacci.dir
   OBJECT_FILE_DIR = CMakeFiles/Fibunacci.dir/src/module
 
+build CMakeFiles/Fibunacci.dir/src/summe.cpp.o: CXX_COMPILER__Fibunacci_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Fibunacci
+  DEP_FILE = CMakeFiles/Fibunacci.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Fibunacci.dir
+  OBJECT_FILE_DIR = CMakeFiles/Fibunacci.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Fibunacci
@@ -375,7 +417,7 @@ build CMakeFiles/Fibunacci.dir/src/module/io.cpp.o: CXX_COMPILER__Fibunacci_unsc
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci: CXX_EXECUTABLE_LINKER__Fibunacci_Debug CMakeFiles/Fibunacci.dir/src/Fibunacci.cpp.o CMakeFiles/Fibunacci.dir/src/module/module.cpp.o CMakeFiles/Fibunacci.dir/src/module/calc.cpp.o CMakeFiles/Fibunacci.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci: CXX_EXECUTABLE_LINKER__Fibunacci_Debug CMakeFiles/Fibunacci.dir/src/Fibunacci.cpp.o CMakeFiles/Fibunacci.dir/src/module/module.cpp.o CMakeFiles/Fibunacci.dir/src/module/calc.cpp.o CMakeFiles/Fibunacci.dir/src/module/io.cpp.o CMakeFiles/Fibunacci.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Fibunacci.dir
   POST_BUILD = :
@@ -416,6 +458,12 @@ build CMakeFiles/Geldeinsameln.dir/src/module/io.cpp.o: CXX_COMPILER__Geldeinsam
   OBJECT_DIR = CMakeFiles/Geldeinsameln.dir
   OBJECT_FILE_DIR = CMakeFiles/Geldeinsameln.dir/src/module
 
+build CMakeFiles/Geldeinsameln.dir/src/summe.cpp.o: CXX_COMPILER__Geldeinsameln_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Geldeinsameln
+  DEP_FILE = CMakeFiles/Geldeinsameln.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Geldeinsameln.dir
+  OBJECT_FILE_DIR = CMakeFiles/Geldeinsameln.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Geldeinsameln
@@ -424,7 +472,7 @@ build CMakeFiles/Geldeinsameln.dir/src/module/io.cpp.o: CXX_COMPILER__Geldeinsam
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Geldeinsameln
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Geldeinsameln: CXX_EXECUTABLE_LINKER__Geldeinsameln_Debug CMakeFiles/Geldeinsameln.dir/src/Geldeinsameln.cpp.o CMakeFiles/Geldeinsameln.dir/src/module/module.cpp.o CMakeFiles/Geldeinsameln.dir/src/module/calc.cpp.o CMakeFiles/Geldeinsameln.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Geldeinsameln: CXX_EXECUTABLE_LINKER__Geldeinsameln_Debug CMakeFiles/Geldeinsameln.dir/src/Geldeinsameln.cpp.o CMakeFiles/Geldeinsameln.dir/src/module/module.cpp.o CMakeFiles/Geldeinsameln.dir/src/module/calc.cpp.o CMakeFiles/Geldeinsameln.dir/src/module/io.cpp.o CMakeFiles/Geldeinsameln.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Geldeinsameln.dir
   POST_BUILD = :
@@ -465,6 +513,12 @@ build CMakeFiles/Kreis.dir/src/module/io.cpp.o: CXX_COMPILER__Kreis_unscanned_De
   OBJECT_DIR = CMakeFiles/Kreis.dir
   OBJECT_FILE_DIR = CMakeFiles/Kreis.dir/src/module
 
+build CMakeFiles/Kreis.dir/src/summe.cpp.o: CXX_COMPILER__Kreis_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Kreis
+  DEP_FILE = CMakeFiles/Kreis.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Kreis.dir
+  OBJECT_FILE_DIR = CMakeFiles/Kreis.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Kreis
@@ -473,7 +527,7 @@ build CMakeFiles/Kreis.dir/src/module/io.cpp.o: CXX_COMPILER__Kreis_unscanned_De
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Kreis
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Kreis: CXX_EXECUTABLE_LINKER__Kreis_Debug CMakeFiles/Kreis.dir/src/Kreis.cpp.o CMakeFiles/Kreis.dir/src/module/module.cpp.o CMakeFiles/Kreis.dir/src/module/calc.cpp.o CMakeFiles/Kreis.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Kreis: CXX_EXECUTABLE_LINKER__Kreis_Debug CMakeFiles/Kreis.dir/src/Kreis.cpp.o CMakeFiles/Kreis.dir/src/module/module.cpp.o CMakeFiles/Kreis.dir/src/module/calc.cpp.o CMakeFiles/Kreis.dir/src/module/io.cpp.o CMakeFiles/Kreis.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Kreis.dir
   POST_BUILD = :
@@ -514,6 +568,12 @@ build CMakeFiles/Mittelwert.dir/src/module/io.cpp.o: CXX_COMPILER__Mittelwert_un
   OBJECT_DIR = CMakeFiles/Mittelwert.dir
   OBJECT_FILE_DIR = CMakeFiles/Mittelwert.dir/src/module
 
+build CMakeFiles/Mittelwert.dir/src/summe.cpp.o: CXX_COMPILER__Mittelwert_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Mittelwert
+  DEP_FILE = CMakeFiles/Mittelwert.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Mittelwert.dir
+  OBJECT_FILE_DIR = CMakeFiles/Mittelwert.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Mittelwert
@@ -522,7 +582,7 @@ build CMakeFiles/Mittelwert.dir/src/module/io.cpp.o: CXX_COMPILER__Mittelwert_un
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Mittelwert
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Mittelwert: CXX_EXECUTABLE_LINKER__Mittelwert_Debug CMakeFiles/Mittelwert.dir/src/Mittelwert.cpp.o CMakeFiles/Mittelwert.dir/src/module/module.cpp.o CMakeFiles/Mittelwert.dir/src/module/calc.cpp.o CMakeFiles/Mittelwert.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Mittelwert: CXX_EXECUTABLE_LINKER__Mittelwert_Debug CMakeFiles/Mittelwert.dir/src/Mittelwert.cpp.o CMakeFiles/Mittelwert.dir/src/module/module.cpp.o CMakeFiles/Mittelwert.dir/src/module/calc.cpp.o CMakeFiles/Mittelwert.dir/src/module/io.cpp.o CMakeFiles/Mittelwert.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Mittelwert.dir
   POST_BUILD = :
@@ -563,6 +623,12 @@ build CMakeFiles/Winkel_Sinus.dir/src/module/io.cpp.o: CXX_COMPILER__Winkel_Sinu
   OBJECT_DIR = CMakeFiles/Winkel_Sinus.dir
   OBJECT_FILE_DIR = CMakeFiles/Winkel_Sinus.dir/src/module
 
+build CMakeFiles/Winkel_Sinus.dir/src/summe.cpp.o: CXX_COMPILER__Winkel_Sinus_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_Winkel_Sinus
+  DEP_FILE = CMakeFiles/Winkel_Sinus.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Winkel_Sinus.dir
+  OBJECT_FILE_DIR = CMakeFiles/Winkel_Sinus.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Winkel_Sinus
@@ -571,7 +637,7 @@ build CMakeFiles/Winkel_Sinus.dir/src/module/io.cpp.o: CXX_COMPILER__Winkel_Sinu
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/Winkel_Sinus
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/Winkel_Sinus: CXX_EXECUTABLE_LINKER__Winkel_Sinus_Debug CMakeFiles/Winkel_Sinus.dir/src/Winkel-Sinus.cpp.o CMakeFiles/Winkel_Sinus.dir/src/module/module.cpp.o CMakeFiles/Winkel_Sinus.dir/src/module/calc.cpp.o CMakeFiles/Winkel_Sinus.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/Winkel_Sinus: CXX_EXECUTABLE_LINKER__Winkel_Sinus_Debug CMakeFiles/Winkel_Sinus.dir/src/Winkel-Sinus.cpp.o CMakeFiles/Winkel_Sinus.dir/src/module/module.cpp.o CMakeFiles/Winkel_Sinus.dir/src/module/calc.cpp.o CMakeFiles/Winkel_Sinus.dir/src/module/io.cpp.o CMakeFiles/Winkel_Sinus.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/Winkel_Sinus.dir
   POST_BUILD = :
@@ -612,6 +678,12 @@ build CMakeFiles/main.dir/src/module/io.cpp.o: CXX_COMPILER__main_unscanned_Debu
   OBJECT_DIR = CMakeFiles/main.dir
   OBJECT_FILE_DIR = CMakeFiles/main.dir/src/module
 
+build CMakeFiles/main.dir/src/summe.cpp.o: CXX_COMPILER__main_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_main
+  DEP_FILE = CMakeFiles/main.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/main.dir
+  OBJECT_FILE_DIR = CMakeFiles/main.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target main
@@ -620,7 +692,7 @@ build CMakeFiles/main.dir/src/module/io.cpp.o: CXX_COMPILER__main_unscanned_Debu
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/main
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/main: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/module/module.cpp.o CMakeFiles/main.dir/src/module/calc.cpp.o CMakeFiles/main.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/main: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/module/module.cpp.o CMakeFiles/main.dir/src/module/calc.cpp.o CMakeFiles/main.dir/src/module/io.cpp.o CMakeFiles/main.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/main.dir
   POST_BUILD = :
@@ -655,6 +727,12 @@ build CMakeFiles/calc.dir/src/module/io.cpp.o: CXX_COMPILER__calc_unscanned_Debu
   OBJECT_DIR = CMakeFiles/calc.dir
   OBJECT_FILE_DIR = CMakeFiles/calc.dir/src/module
 
+build CMakeFiles/calc.dir/src/summe.cpp.o: CXX_COMPILER__calc_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_calc
+  DEP_FILE = CMakeFiles/calc.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/calc.dir
+  OBJECT_FILE_DIR = CMakeFiles/calc.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target calc
@@ -663,7 +741,7 @@ build CMakeFiles/calc.dir/src/module/io.cpp.o: CXX_COMPILER__calc_unscanned_Debu
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/calc
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/calc: CXX_EXECUTABLE_LINKER__calc_Debug CMakeFiles/calc.dir/src/module/calc.cpp.o CMakeFiles/calc.dir/src/module/module.cpp.o CMakeFiles/calc.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/calc: CXX_EXECUTABLE_LINKER__calc_Debug CMakeFiles/calc.dir/src/module/calc.cpp.o CMakeFiles/calc.dir/src/module/module.cpp.o CMakeFiles/calc.dir/src/module/io.cpp.o CMakeFiles/calc.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/calc.dir
   POST_BUILD = :
@@ -698,6 +776,12 @@ build CMakeFiles/io.dir/src/module/calc.cpp.o: CXX_COMPILER__io_unscanned_Debug 
   OBJECT_DIR = CMakeFiles/io.dir
   OBJECT_FILE_DIR = CMakeFiles/io.dir/src/module
 
+build CMakeFiles/io.dir/src/summe.cpp.o: CXX_COMPILER__io_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_io
+  DEP_FILE = CMakeFiles/io.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/io.dir
+  OBJECT_FILE_DIR = CMakeFiles/io.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target io
@@ -706,7 +790,7 @@ build CMakeFiles/io.dir/src/module/calc.cpp.o: CXX_COMPILER__io_unscanned_Debug 
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/io
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/io: CXX_EXECUTABLE_LINKER__io_Debug CMakeFiles/io.dir/src/module/io.cpp.o CMakeFiles/io.dir/src/module/module.cpp.o CMakeFiles/io.dir/src/module/calc.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/io: CXX_EXECUTABLE_LINKER__io_Debug CMakeFiles/io.dir/src/module/io.cpp.o CMakeFiles/io.dir/src/module/module.cpp.o CMakeFiles/io.dir/src/module/calc.cpp.o CMakeFiles/io.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/io.dir
   POST_BUILD = :
@@ -741,6 +825,12 @@ build CMakeFiles/module.dir/src/module/io.cpp.o: CXX_COMPILER__module_unscanned_
   OBJECT_DIR = CMakeFiles/module.dir
   OBJECT_FILE_DIR = CMakeFiles/module.dir/src/module
 
+build CMakeFiles/module.dir/src/summe.cpp.o: CXX_COMPILER__module_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_module
+  DEP_FILE = CMakeFiles/module.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/module.dir
+  OBJECT_FILE_DIR = CMakeFiles/module.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target module
@@ -749,13 +839,62 @@ build CMakeFiles/module.dir/src/module/io.cpp.o: CXX_COMPILER__module_unscanned_
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/module
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/module: CXX_EXECUTABLE_LINKER__module_Debug CMakeFiles/module.dir/src/module/module.cpp.o CMakeFiles/module.dir/src/module/calc.cpp.o CMakeFiles/module.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/module: CXX_EXECUTABLE_LINKER__module_Debug CMakeFiles/module.dir/src/module/module.cpp.o CMakeFiles/module.dir/src/module/calc.cpp.o CMakeFiles/module.dir/src/module/io.cpp.o CMakeFiles/module.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/module.dir
   POST_BUILD = :
   PRE_LINK = :
   TARGET_FILE = /Users/finnengels/CLionProjects/Vorlesung/bin/module
   TARGET_PDB = module.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target summe
+
+
+#############################################
+# Order-only phony target for summe
+
+build cmake_object_order_depends_target_summe: phony || .
+
+build CMakeFiles/summe.dir/src/summe.cpp.o: CXX_COMPILER__summe_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_summe
+  DEP_FILE = CMakeFiles/summe.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/summe.dir
+  OBJECT_FILE_DIR = CMakeFiles/summe.dir/src
+
+build CMakeFiles/summe.dir/src/module/module.cpp.o: CXX_COMPILER__summe_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/module/module.cpp || cmake_object_order_depends_target_summe
+  DEP_FILE = CMakeFiles/summe.dir/src/module/module.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/summe.dir
+  OBJECT_FILE_DIR = CMakeFiles/summe.dir/src/module
+
+build CMakeFiles/summe.dir/src/module/calc.cpp.o: CXX_COMPILER__summe_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/module/calc.cpp || cmake_object_order_depends_target_summe
+  DEP_FILE = CMakeFiles/summe.dir/src/module/calc.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/summe.dir
+  OBJECT_FILE_DIR = CMakeFiles/summe.dir/src/module
+
+build CMakeFiles/summe.dir/src/module/io.cpp.o: CXX_COMPILER__summe_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/module/io.cpp || cmake_object_order_depends_target_summe
+  DEP_FILE = CMakeFiles/summe.dir/src/module/io.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/summe.dir
+  OBJECT_FILE_DIR = CMakeFiles/summe.dir/src/module
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target summe
+
+
+#############################################
+# Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/summe
+
+build /Users/finnengels/CLionProjects/Vorlesung/bin/summe: CXX_EXECUTABLE_LINKER__summe_Debug CMakeFiles/summe.dir/src/summe.cpp.o CMakeFiles/summe.dir/src/module/module.cpp.o CMakeFiles/summe.dir/src/module/calc.cpp.o CMakeFiles/summe.dir/src/module/io.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
+  OBJECT_DIR = CMakeFiles/summe.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = /Users/finnengels/CLionProjects/Vorlesung/bin/summe
+  TARGET_PDB = summe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target xv_xb
@@ -790,6 +929,12 @@ build CMakeFiles/xv_xb.dir/src/module/io.cpp.o: CXX_COMPILER__xv_xb_unscanned_De
   OBJECT_DIR = CMakeFiles/xv_xb.dir
   OBJECT_FILE_DIR = CMakeFiles/xv_xb.dir/src/module
 
+build CMakeFiles/xv_xb.dir/src/summe.cpp.o: CXX_COMPILER__xv_xb_unscanned_Debug /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp || cmake_object_order_depends_target_xv_xb
+  DEP_FILE = CMakeFiles/xv_xb.dir/src/summe.cpp.o.d
+  FLAGS = -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/xv_xb.dir
+  OBJECT_FILE_DIR = CMakeFiles/xv_xb.dir/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target xv_xb
@@ -798,7 +943,7 @@ build CMakeFiles/xv_xb.dir/src/module/io.cpp.o: CXX_COMPILER__xv_xb_unscanned_De
 #############################################
 # Link the executable /Users/finnengels/CLionProjects/Vorlesung/bin/xv_xb
 
-build /Users/finnengels/CLionProjects/Vorlesung/bin/xv_xb: CXX_EXECUTABLE_LINKER__xv_xb_Debug CMakeFiles/xv_xb.dir/src/xv-xb.cpp.o CMakeFiles/xv_xb.dir/src/module/module.cpp.o CMakeFiles/xv_xb.dir/src/module/calc.cpp.o CMakeFiles/xv_xb.dir/src/module/io.cpp.o
+build /Users/finnengels/CLionProjects/Vorlesung/bin/xv_xb: CXX_EXECUTABLE_LINKER__xv_xb_Debug CMakeFiles/xv_xb.dir/src/xv-xb.cpp.o CMakeFiles/xv_xb.dir/src/module/module.cpp.o CMakeFiles/xv_xb.dir/src/module/calc.cpp.o CMakeFiles/xv_xb.dir/src/module/io.cpp.o CMakeFiles/xv_xb.dir/src/summe.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk
   OBJECT_DIR = CMakeFiles/xv_xb.dir
   POST_BUILD = :
@@ -862,6 +1007,8 @@ build main: phony /Users/finnengels/CLionProjects/Vorlesung/bin/main
 
 build module: phony /Users/finnengels/CLionProjects/Vorlesung/bin/module
 
+build summe: phony /Users/finnengels/CLionProjects/Vorlesung/bin/summe
+
 build xv_xb: phony /Users/finnengels/CLionProjects/Vorlesung/bin/xv_xb
 
 # =============================================================================
@@ -879,7 +1026,7 @@ build codegen: phony
 #############################################
 # Folder: /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug
 
-build all: phony /Users/finnengels/CLionProjects/Vorlesung/bin/Beispiele_Vorlesung /Users/finnengels/CLionProjects/Vorlesung/bin/Division /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet_Rekursiv /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet /Users/finnengels/CLionProjects/Vorlesung/bin/FakultaetAusgabe /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci_Rekursiv /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci /Users/finnengels/CLionProjects/Vorlesung/bin/Geldeinsameln /Users/finnengels/CLionProjects/Vorlesung/bin/Kreis /Users/finnengels/CLionProjects/Vorlesung/bin/Mittelwert /Users/finnengels/CLionProjects/Vorlesung/bin/Winkel_Sinus /Users/finnengels/CLionProjects/Vorlesung/bin/main /Users/finnengels/CLionProjects/Vorlesung/bin/calc /Users/finnengels/CLionProjects/Vorlesung/bin/io /Users/finnengels/CLionProjects/Vorlesung/bin/module /Users/finnengels/CLionProjects/Vorlesung/bin/xv_xb
+build all: phony /Users/finnengels/CLionProjects/Vorlesung/bin/Beispiele_Vorlesung /Users/finnengels/CLionProjects/Vorlesung/bin/Division /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet_Rekursiv /Users/finnengels/CLionProjects/Vorlesung/bin/Fakultaet /Users/finnengels/CLionProjects/Vorlesung/bin/FakultaetAusgabe /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci_Rekursiv /Users/finnengels/CLionProjects/Vorlesung/bin/Fibunacci /Users/finnengels/CLionProjects/Vorlesung/bin/Geldeinsameln /Users/finnengels/CLionProjects/Vorlesung/bin/Kreis /Users/finnengels/CLionProjects/Vorlesung/bin/Mittelwert /Users/finnengels/CLionProjects/Vorlesung/bin/Winkel_Sinus /Users/finnengels/CLionProjects/Vorlesung/bin/main /Users/finnengels/CLionProjects/Vorlesung/bin/calc /Users/finnengels/CLionProjects/Vorlesung/bin/io /Users/finnengels/CLionProjects/Vorlesung/bin/module /Users/finnengels/CLionProjects/Vorlesung/bin/summe /Users/finnengels/CLionProjects/Vorlesung/bin/xv_xb
 
 # =============================================================================
 # Built-in targets

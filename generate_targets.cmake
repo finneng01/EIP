@@ -34,7 +34,9 @@ foreach(FILE ${CPP_FILES})
                 src/module/calc.h
                 src/module/global.h
                 src/module/io.h
-                src/module/io.cpp)
+                src/module/io.cpp
+                src/summe.cpp
+        )
         message(STATUS "Executable hinzugefügt: ${SANITIZED_NAME} -> ${FILE}")
     endif()
 endforeach()

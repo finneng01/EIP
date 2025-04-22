@@ -14,6 +14,7 @@
 -- Executable hinzugefügt: calc -> /Users/finnengels/CLionProjects/Vorlesung/src/module/calc.cpp
 -- Executable hinzugefügt: io -> /Users/finnengels/CLionProjects/Vorlesung/src/module/io.cpp
 -- Executable hinzugefügt: module -> /Users/finnengels/CLionProjects/Vorlesung/src/module/module.cpp
+-- Executable hinzugefügt: summe -> /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp
 -- Executable hinzugefügt: xv_xb -> /Users/finnengels/CLionProjects/Vorlesung/src/xv-xb.cpp
 -- Configuring done (0.0s)
 -- Generating done (0.0s)
