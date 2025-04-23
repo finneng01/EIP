@@ -17,5 +17,14 @@
 -- Executable hinzugefügt: summe -> /Users/finnengels/CLionProjects/Vorlesung/src/summe.cpp
 -- Executable hinzugefügt: xv_xb -> /Users/finnengels/CLionProjects/Vorlesung/src/xv-xb.cpp
 -- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: /Users/finnengels/CLionProjects/Vorlesung/cmake-build-debug
+CMake Error at CMakeLists.txt:11 (add_executable):
+  Cannot find source file:
+
+    main.cpp
+
+
+CMake Error at CMakeLists.txt:11 (add_executable):
+  No SOURCES given to target: Vorlesung
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
